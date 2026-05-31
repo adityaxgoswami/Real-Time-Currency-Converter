@@ -21,7 +21,7 @@ A real-time currency conversion application powered by Large Language Models (LL
 
 * Python
 * LLM Framework (LangChain / OpenAI / whichever you used)
-* FastAPI (if used)
+
 
 ### APIs
 
@@ -132,6 +132,3 @@ This project helped in understanding:
 
 ---
 
-## License
-
-MIT License

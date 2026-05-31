@@ -1,5 +1,3 @@
-# Real-Time-Currency-Converter
-Built a real-time currency conversion application using live exchange rate APIs integrated with LLM tool binding to provide accurate conversions through natural language interactions.
 # Real-Time Currency Converter using LLM Tool Binding
 
 A real-time currency conversion application powered by Large Language Models (LLMs) and tool binding. The application fetches live exchange rates using external APIs and leverages LLM-driven tool calling to provide accurate currency conversions through natural language interactions.
